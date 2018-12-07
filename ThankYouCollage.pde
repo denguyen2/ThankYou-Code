@@ -1,3 +1,4 @@
+/* @pjs preload="Thank You code.png"; */
 //integer variables
 //after the mouse has been clicked
 int X= 250;
